@@ -2,7 +2,7 @@
 
  Explicitly learn about 
 
-- Map,
+- Map
 
 - Lambda/Anonymousfunction 
 
