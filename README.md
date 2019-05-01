@@ -1,6 +1,6 @@
 ### Learnings from the project
 
- Explicitly learn about 
+ Explicitly learnt about 
 
 - Map
 
